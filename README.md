@@ -1,4 +1,13 @@
-### Hello gang squad! 
+<h1 align="center">Sihao Wu</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wu-sihao/">LinkedIn</a> · 
+  <a href="mailto:sihao.wu@mail.utoronto.ca">Email</a>
+</p>
+
+### About Me
+
+Computer Engineering student at the **University of Toronto** (cGPA: 3.74/4.0). Current RA at **Rotman School of Management**. 
 
 <!--
 **sihaowu1/sihaowu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
