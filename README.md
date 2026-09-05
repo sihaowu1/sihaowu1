@@ -16,7 +16,7 @@ Computer Engineering student at the **University of Toronto** (cGPA: 3.74/4.0). 
 | [Quoridor AlphaZero](https://github.com/sihaowu1/quoridor-alphazero) | A 1900 rating Quoridor bot trained with a from-scratch implementation of AlphaZero | 
 | [Ascii Driving Game](https://github.com/sihaowu1/ascii-driving-game) | Rendered graphics using ray-tracing to allow cities, racetracks, hills, and your car to be ascii | 
 | [Figgie Bot](https://github.com/sihaowu1/figgie-bot) | Beating Jane Street's Figgie with Bayesian inference achieving 80% winrate |
-| [Polymarket Aribtrage](https://github.com/sihaowu1/polymarket-options-mm) | Arbitrage strategy between Polymarket and CME/NYMEX weeklies |
+| [Polymarket Arbitrage](https://github.com/sihaowu1/polymarket-options-mm) | Arbitrage strategy between Polymarket and CME/NYMEX weeklies |
 
 <!--
 **sihaowu1/sihaowu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
