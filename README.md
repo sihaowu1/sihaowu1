@@ -7,7 +7,7 @@
 
 ### About Me
 
-Computer Engineering student at the **University of Toronto** (cGPA: 3.74/4.0). Current RA at the **Rotman School of Management**. 
+Computer Engineering student at the **University of Toronto**. Current RA at the **Rotman School of Management**. 
 
 ### Select Technical Work
 | Project | Description |
